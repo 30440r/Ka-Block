@@ -74,7 +74,5 @@ and release a new version of the extension to include it.
 Ka-Block! is released under the terms of the MIT license. Check the LICENSE
 file for details.
 
-<3
-
 [macos]: https://itunes.apple.com/us/app/ka-block/id1335413823?mt=12
 [ios]: https://geo.itunes.apple.com/us/app/ka-block!/id1037173557?mt=8
